@@ -2,3 +2,5 @@ Salut
 
 Je suis sur newBranch
 Je suis sur main 
+
+Error 
